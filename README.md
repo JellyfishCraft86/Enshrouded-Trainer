@@ -1,0 +1,2 @@
+# Enshrouded-Trainer
+🎮 Enshrouded Trainer
